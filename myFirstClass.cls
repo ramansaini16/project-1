@@ -3,6 +3,6 @@ public class myFirstClass {
     public static void myFirstMethod(){
         system.debug('myFirstMethod');
         
-        //this is a test
+        //this is a branch test
     }
 }
